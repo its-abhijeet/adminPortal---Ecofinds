@@ -38,7 +38,7 @@ export default function Navbar() {
             className="flex items-center space-x-2 hover:scale-105 transition-transform duration-200"
           >
             <Image
-              src="/logo2.png"
+              src="/Ecofind-logo.png"
               alt="rPP Admin"
               width={50}
               height={50}
