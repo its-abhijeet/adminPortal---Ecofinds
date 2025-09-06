@@ -1,7 +1,3 @@
-Here is a professional **README.md** file you can use for your EcoFind Admin Portal project. This README is tailored for a Next.js-based admin dashboard, matching the tone, tech stack, structure, and level of detail you provided previously.
-
----
-
 # 🛠️ EcoFind Admin Portal
 
 **EcoFind Admin Portal** is a robust and modern **Next.js-powered dashboard** designed for managing products, users, listings, and analytics within the EcoFind platform.  
